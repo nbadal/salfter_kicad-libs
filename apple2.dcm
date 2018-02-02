@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP A2Bus
+D Apple II expansion bus
+F https://allpinouts.org/pinouts/connectors/buses/apple-ii-slot/
+$ENDCMP
+#
+#End Doc Library
