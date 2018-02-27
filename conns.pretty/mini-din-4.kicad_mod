@@ -20,4 +20,9 @@
   (pad 2 thru_hole circle (at 3.4 2) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -3.4 2) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask))
   (pad "" thru_hole oval (at 0 -1.8) (size 2.7 1.2) (drill oval 2.2 0.7) (layers *.Cu *.Mask))
+  (model E:/tmp/rgb2svid/kicad-libs/conns.pretty/mini-din-4.wrl
+    (at (xyz 0 0.2562 0.2502))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz -90 0 180))
+  )
 )
