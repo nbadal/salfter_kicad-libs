@@ -21,4 +21,9 @@
   (pad 21 thru_hole oval (at 3.81 3.76) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 8.89 -3.76) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask))
   (pad 24 thru_hole oval (at 8.89 3.76) (size 1.2 2) (drill 0.8) (layers *.Cu *.Mask))
+  (model ${KIPRJMOD}/kicad-libs/dip_relays.pretty/Relay_DPDT_DIP16.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 180 0 180))
+  )
 )
