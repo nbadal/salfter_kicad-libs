@@ -4,4 +4,10 @@ $CMP Fuse
 D Fuse
 $ENDCMP
 #
+$CMP R_Pack08
+D 8 resistor network, parallel topology, DIP package
+K R network parallel topology isolated
+F ~
+$ENDCMP
+#
 #End Doc Library
