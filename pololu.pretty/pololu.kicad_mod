@@ -1,4 +1,4 @@
-(module pololu (layer F.Cu) (tedit 5C7EAE27)
+(module pololu (layer F.Cu) (tedit 5C9991D8)
   (descr "Pololu/Stepstick driver carrier")
   (fp_text reference U? (at 0 -1.27) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -36,17 +36,17 @@
   (pad 16 thru_hole circle (at -8.89 -6.35) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 8.89 1.27) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (model Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
-    (offset (xyz 8.890000000000001 0 0))
+    (offset (xyz 8.890000000000001 -6.35 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
   (model Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl
-    (offset (xyz 8.890000000000001 12.7 0))
+    (offset (xyz 8.890000000000001 6.35 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
   (model Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x01_P2.54mm_Vertical.wrl
-    (offset (xyz 7.2 3.8 0))
+    (offset (xyz 8.890000000000001 -1.27 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )
